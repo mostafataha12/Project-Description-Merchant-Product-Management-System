@@ -25,8 +25,3 @@ This project is a web-based platform developed using Flask where merchants can s
 - HTML5 / CSS3 / Jinja Templates
 - Flask-Session
 - SQLAlchemy ORM
-
----
-
-## Project Structure
-
